@@ -1,0 +1,63 @@
+
+body.modo-escuro {
+    background-color: #121212; 
+    color: #e0e0e0; 
+}
+
+
+body.modo-escuro .container {
+    background-color: #1e1e1e; 
+    padding: 20px; 
+}
+
+body.modo-escuro .form-control,
+body.modo-escuro .form-control-sm,
+body.modo-escuro input[type="number"],
+body.modo-escuro textarea {
+    background-color: #2a2a2a; 
+    border: 1px solid #444444; 
+    color: #e0e0e0; 
+}
+
+
+body.modo-escuro .form-control::placeholder,
+body.modo-escuro textarea::placeholder {
+    color: #888888; 
+}
+
+body.modo-escuro .form-label {
+    color: #292929; 
+}
+
+body.modo-escuro .btn-primary {
+    background-color: #3700b3; 
+    border-color: #3700b3;
+    color: #ffffff; 
+}
+
+
+body.modo-escuro .btn-secondary {
+    background-color: #03dac6;
+    border-color: #03dac6;
+    color: #000000; 
+}
+
+
+body.modo-escuro .col-6 {
+    background-color: #1e1e1e;
+    padding: 15px; 
+    border-radius: 8px; 
+}
+
+
+body.modo-escuro a {
+    color: #bb86fc; 
+    text-decoration: none; 
+}
+
+
+body.modo-escuro #modoClaro {
+    background-color: #333333; 
+    color: #ffffff; 
+}
+
